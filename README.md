@@ -1,9 +1,11 @@
 # NeTAlD (Network Traffic Anomalies Detection)
 
 Простое, демонстративное решения для поиска аномалий в сетевом трафике. 
+
 **Не используйте это для решения реальных задач.**
 
 A simple, demonstrative solution for finding anomalies in network traffic. 
+
 **This is not suitable for solving real problems of detecting anomalies in network traffic.**
 
 ## Запуск модуля
