@@ -1,8 +1,10 @@
 # NeTAlD (Network Traffic Anomalies Detection)
 
-Простое, демонстративное решения для поиска аномалий в сетевом трафике. **Не используйте это для решения реальных задач.**
+Простое, демонстративное решения для поиска аномалий в сетевом трафике. 
+**Не используйте это для решения реальных задач.**
 
-A simple, demonstrative solution for finding anomalies in network traffic. ** This is not suitable for solving real problems of detecting anomalies in network traffic.**
+A simple, demonstrative solution for finding anomalies in network traffic. 
+**This is not suitable for solving real problems of detecting anomalies in network traffic.**
 
 ## Запуск модуля
 1. Произвести установку дистрибутива Ubuntu 20.04 x64 в минимальной конфигурации.
